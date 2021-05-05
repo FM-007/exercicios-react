@@ -1,0 +1,31 @@
+:root {
+    --btn: #e2e2e2;
+    --border: #ccc;
+}
+
+.button {
+    font-size: 1.4em;
+    background-color: var(--btn);
+    border: 1px solid var(--border);
+    outline: none;
+}
+
+.button:active {
+    background-color: #ccc;
+}
+
+.button.double {
+    grid-column: span 2;
+}
+
+.button.triple {
+    grid-column: span 3;
+}
+
+.button.operation {
+    background-color: #FF7F00;
+}
+
+.button.operation:active {
+    background-color: #c26406;
+}

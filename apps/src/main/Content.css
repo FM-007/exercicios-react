@@ -1,0 +1,15 @@
+.content1 {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+div h1 {
+    display: flex;
+    color: #fff;
+    width: 100%;
+    padding: 5px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(44, 42, 42);
+    color: #ffff;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 1.4rem;
+}
+
+h1 {
+    letter-spacing: 5px;
+}
+
+h1, h2, h3 {
+    font-weight: 200;
+}
+
+h2, h3 {
+    margin: 0;
+}
+

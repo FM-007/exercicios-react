@@ -1,0 +1,18 @@
+.tabela table {
+    width: 100%;
+}
+
+.tabela th {
+    background-color: #008b8b;
+    padding: 5px;
+    color: #fff;
+}
+
+.tabela .par {
+    background-color: #ddd;
+    color: white;
+}
+
+.tabela td {
+    padding: 5px;
+}
